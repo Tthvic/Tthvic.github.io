@@ -2,7 +2,7 @@
 
 <div class="news-container">
 
-- **Sept 2024**: � Started my Master's program at University of Chinese Academy of Sciences, supervised by Prof. [Yanwei Liu](https://people.ucas.ac.cn/~liuyanwei)
+- **Sept 2024**: Started my Master's program at University of Chinese Academy of Sciences, supervised by Prof. [Yanwei Liu](https://people.ucas.ac.cn/~liuyanwei)
 - **June 2024**: 🏆 Graduated as Outstanding Graduate of Shandong Province
 - **Dec 2022**: 🏅 Awarded National Scholarship (Top 1%)
 
