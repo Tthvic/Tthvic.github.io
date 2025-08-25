@@ -1,37 +1,19 @@
 
-# 🎓 Education
+# 📖 Educations
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 1px; border-radius: 10px; margin: 20px 0;">
-  <div style="background: white; padding: 20px; border-radius: 9px;">
+- *2024.09 - 2027.06*, Master, University of Chinese Academy of Sciences, Beijing.
+- *2022.09 - 2024.06*, Undergraduate，Qilu University of Technology, JiNan.
 
-**🎓 Master of Science** | *2024.09 - 2027.06 (Expected)*
-<br/>**University of Chinese Academy of Sciences**, Beijing
-<br/><small style="color: #666;">Institute of Information Engineering | Focus: AI Safety & Security</small>
+<!-- # 💬 Invited Talks -->
+<!-- - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
+- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
+- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
+- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk -->
 
-**🎓 Bachelor's Degree** | *2022.09 - 2024.06*
-<br/>**Qilu University of Technology**, Jinan
-<br/><small style="color: #666;">Outstanding Graduate of Shandong Province</small>
-
-  </div>
-</div>
-
-# 🚀 Research Interests
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-  <span style="background: linear-gradient(45deg, #FF6B6B, #FF8E8E); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;">🔒 AI Safety</span>
-  <span style="background: linear-gradient(45deg, #4ECDC4, #44A08D); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;">🛡️ AI Security</span>
-  <span style="background: linear-gradient(45deg, #45B7D1, #96CEB4); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;">🤖 Robust AI Systems</span>
-  <span style="background: linear-gradient(45deg, #F093FB, #F5576C); color: white; padding: 8px 16px; border-radius: 20px; font-size: 14px;">⚡ Trustworthy AI</span>
-</div>
-
-# 💻 Experience
-
-<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 1px; border-radius: 10px; margin: 20px 0;">
-  <div style="background: white; padding: 20px; border-radius: 9px;">
-
-Currently focusing on research and academic pursuits. Open to collaboration opportunities in AI Safety and Security research.
-
-**🔍 Looking for**: Research collaborations, internships, and opportunities to contribute to cutting-edge AI safety research.
-
-  </div>
-</div>
+# 💻 Internships
+<!-- - *2021.06 - 2021.09*, Alibaba, Hangzhou.
+- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
+- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
+- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
+- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
+- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou. -->

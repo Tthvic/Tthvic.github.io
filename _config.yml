@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "LiJiasen"
-description              : "Focusing on AI safety & AI security."
+description              : "Focusing on video and speech large generation model."
 repository               : "Tthvic/Tthvic.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "LiJiasen"
   avatar           : "images/lijiasen_profile.jpeg"
-  bio              : "🎓 Master's Student | 🔒 AI Safety & Security Researcher | 🏛️ UCAS"
-  location         : "📍 Beijing, China"
+  bio              : ""
+  location         : "Beijing"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=n8RJ648AAAAJ"
