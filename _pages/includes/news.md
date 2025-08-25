@@ -7,4 +7,3 @@
 - *2024.09*: I began my master's studies at the University of Chinese Academy of Sciences, under the supervision of Professor [Yanwei Liu](https://people.ucas.ac.cn/~liuyanwei).
 
 
-
