@@ -2,7 +2,7 @@
 # 📝 Publications 
 <!-- ## 🎙 Speech Synthesis -->
 
-``CENet 2022 2022`` [Research on the application of artificial intelligence in the rehabilitation training of children with speech disorders](https://link.springer.com/chapter/10.1007/978-981-19-6901-0_154), Lianqin Jia, Mengmeng Zhang, **Jiasen Li**
+``CENet 2022`` [Research on the application of artificial intelligence in the rehabilitation training of children with speech disorders](https://link.springer.com/chapter/10.1007/978-981-19-6901-0_154), Lianqin Jia, Mengmeng Zhang, **Jiasen Li**
 
 
 
