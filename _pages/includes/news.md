@@ -1,10 +1,18 @@
-# 🔥 News
-<!-- - *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK! -->
-- *2024.09*: I began my master's studies at the University of Chinese Academy of Sciences, under the supervision of Professor [Yanwei Liu](https://people.ucas.ac.cn/~liuyanwei).
+# 🔥 News & Updates
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 1px; border-radius: 10px; margin: 20px 0;">
+  <div style="background: white; padding: 20px; border-radius: 9px;">
+    
+- 🎓 *2024.09*: **Exciting milestone!** I began my master's studies at the University of Chinese Academy of Sciences, under the supervision of Professor [Yanwei Liu](https://people.ucas.ac.cn/~liuyanwei). Ready to dive deep into AI Safety & Security research!
+
+- 🔒 *2024.08*: Started focusing on **AI Safety & AI Security** research - working on making AI systems more robust and trustworthy.
+
+- 📚 *2024.07*: Completed my undergraduate studies and preparing for the next chapter in academic research.
+
+  </div>
+</div>
+
+---
 
 
 
