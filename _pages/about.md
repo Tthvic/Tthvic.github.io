@@ -18,3 +18,6 @@ redirect_from:
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
+
+-----------------------------------------
+Last updated on: 2025.08
