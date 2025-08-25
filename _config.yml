@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "LiJiasen"
-description              : "Focusing on video and speech large generation model."
+title                    : "LiJiasen (李佳森)"
+description              : "Master's Student | AI Safety & Security Researcher | UCAS"
 repository               : "Tthvic/Tthvic.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "LiJiasen"
+  name             : "LiJiasen (李佳森)"
   avatar           : "images/lijiasen_profile.jpeg"
-  bio              : ""
-  location         : "Beijing"
+  bio              : "Master's Student at UCAS<br/>AI Safety & Security Research"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=n8RJ648AAAAJ"
