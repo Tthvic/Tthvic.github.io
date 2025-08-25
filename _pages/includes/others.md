@@ -1,84 +1,19 @@
 
-# 📖 Education
+# 📖 Educations
 
-<div class="education-timeline">
+- *2024.09 - 2027.06*, Master, University of Chinese Academy of Sciences, Beijing.
+- *2022.09 - 2024.06*, Undergraduate，Qilu University of Technology, JiNan.
 
-<div class="edu-item">
-  <div class="edu-period">2024.09 - 2027.06</div>
-  <div class="edu-content">
-    <strong>Master of Science</strong><br>
-    <em>University of Chinese Academy of Sciences, Beijing</em><br>
-    <span class="highlight">Major:</span> Information Security & AI Safety<br>
-    <span class="highlight">Supervisor:</span> Prof. Yanwei Liu
-  </div>
-</div>
+<!-- # 💬 Invited Talks -->
+<!-- - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
+- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
+- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
+- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk -->
 
-<div class="edu-item">
-  <div class="edu-period">2020.09 - 2024.06</div>
-  <div class="edu-content">
-    <strong>Bachelor of Engineering</strong><br>
-    <em>Qilu University of Technology, Jinan</em><br>
-    <span class="highlight">Honor:</span> Outstanding Graduate of Shandong Province
-  </div>
-</div>
-
-</div>
-
-## 💻 Academic Experience
-
-<div class="experience-container">
-
-*More research experiences and internships will be updated as I progress in my academic journey...*
-
-</div>
-
-<style>
-.education-timeline, .experience-container {
-  margin: 20px 0;
-}
-
-.edu-item {
-  display: flex;
-  margin-bottom: 25px;
-  padding: 20px;
-  background-color: #f8f9fa;
-  border-radius: 8px;
-  border-left: 4px solid #28a745;
-}
-
-.edu-period {
-  background-color: #224b8d;
-  color: white;
-  padding: 8px 15px;
-  border-radius: 20px;
-  font-weight: bold;
-  margin-right: 20px;
-  min-width: 120px;
-  text-align: center;
-  height: fit-content;
-}
-
-.edu-content strong {
-  color: #2c3e50;
-  font-size: 1.1em;
-}
-
-.edu-content em {
-  color: #555;
-  font-style: italic;
-}
-
-.edu-content .highlight {
-  color: #224b8d;
-  font-weight: bold;
-}
-
-.experience-container {
-  padding: 20px;
-  background-color: #f8f9fa;
-  border-radius: 8px;
-  text-align: center;
-  font-style: italic;
-  color: #666;
-}
-</style>
+# 💻 Internships
+<!-- - *2021.06 - 2021.09*, Alibaba, Hangzhou.
+- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
+- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
+- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
+- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
+- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou. -->

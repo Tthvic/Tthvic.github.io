@@ -19,9 +19,5 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 
----
-
-<div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 30px;">
-  <em>Last updated: August 2025</em><br>
-  <em>Built with Jekyll • Hosted on GitHub Pages</em>
-</div>
+-----------------------------------------
+Last updated on: 2025.08
