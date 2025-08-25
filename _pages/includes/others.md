@@ -10,7 +10,7 @@
 - *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
 - *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk -->
 
-# 💻 Internships
+<!-- # 💻 Internships -->
 <!-- - *2021.06 - 2021.09*, Alibaba, Hangzhou.
 - *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
 - *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
