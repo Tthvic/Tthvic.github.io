@@ -3,6 +3,7 @@
 
 ``WWW 2026`` [DRGW: Learning Disentangled Representations for Robust Graph Watermarking]
 **Jiasen Li**, Yanwei Liu, Zhuoyi Shang, Xiaoyan Gu, Weiping Wang
+
 ``Usenix Security 2026`` [Attesting Model Lineage by Consisted Knowledge Evolution with Fine-Tuning Trajectory]
 Zhuoyi Shang, **Jiasen Li(co-author)**, Pengzhen Chen, Yanwei Liu, Xiaoyan Gu, Weiping Wang
 
