@@ -20,4 +20,4 @@ redirect_from:
 {% include_relative includes/others.md %}
 
 -----------------------------------------
-Last updated on: 2025.08
+Last updated on: 2026.01
