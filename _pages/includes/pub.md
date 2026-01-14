@@ -1,20 +1,16 @@
 
 # 📝 Publications 
 
-`WWW 2026` DRGW: Learning Disentangled Representations for Robust Graph Watermarking \\
-**Jiasen Li**, Yanwei Liu, Zhuoyi Shang, Xiaoyan Gu, Weiping Wang
+`WWW 2026` DRGW: Learning Disentangled Representations for Robust Graph Watermarking [**PDF**](#) \| [**Code**](#)\\
+**Jiasen Li**, Yanwei Liu, Zhuoyi Shang, Xiaoyan Gu, Weiping Wang 
 
-[**PDF**](#) \| [**Code**](#)
-
-`Usenix Security 2026` Attesting Model Lineage by Consisted Knowledge Evolution with Fine-Tuning Trajectory \\
+`Usenix Security 2026` Attesting Model Lineage by Consisted Knowledge Evolution with Fine-Tuning Trajectory [**PDF**](#) \| [**Code**](https://github.com/Tthvic/Model_lineage) \\
 Zhuoyi Shang, **Jiasen Li (Co-first Author)**, Pengzhen Chen, Yanwei Liu, Xiaoyan Gu, Weiping Wang
 
-[**PDF**](#) \| [**Code**](https://github.com/Tthvic/Model_lineage)
-
-`CENet 2022` Research on the application of artificial intelligence in the rehabilitation training of children with speech disorders \\
+`CENet 2022` Research on the application of artificial intelligence in the rehabilitation training of children with speech disorders [**PDF**](https://link.springer.com/chapter/10.1007/978-981-19-6901-0_154) \\
 Lianqin Jia, Mengmeng Zhang, **Jiasen Li**
 
-[**PDF**](https://link.springer.com/chapter/10.1007/978-981-19-6901-0_154)
+
 
 
 
