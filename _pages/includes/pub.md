@@ -7,7 +7,7 @@
 `Usenix Security 2026` Attesting Model Lineage by Consisted Knowledge Evolution with Fine-Tuning Trajectory  [**PDF**](#) \| [**Code**](https://github.com/Tthvic/Model_lineage) \\
 Zhuoyi Shang, **Jiasen Li (Co-first Author)**, Pengzhen Chen, Yanwei Liu, Xiaoyan Gu, Weiping Wang
 
-`ICASSP 2026` GS-MARK:DEEPROBUSTWATERMARKINGFORGRAPHSIGNALS  [**PDF**](#) \| [**Code**](#) \\
+`ICASSP 2026` GS-MARK:DEEP ROBUST WATERMARKING FOR GRAPH SIGNALS  [**PDF**](#) \| [**Code**](#) \\
 **Jiasen Li**, Yanwei Liu, Pengzhen Chen, Zhuoyi Shang, Xiaoyan Gu
 
 `CENet 2022` Research on the application of artificial intelligence in the rehabilitation training of children with speech disorders  [**PDF**](https://link.springer.com/chapter/10.1007/978-981-19-6901-0_154) \\
