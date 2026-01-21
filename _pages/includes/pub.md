@@ -4,7 +4,7 @@
 `WWW 2026` DRGW: Learning Disentangled Representations for Robust Graph Watermarking  [**PDF**](#)\\
 **Jiasen Li**, Yanwei Liu, Zhuoyi Shang, Xiaoyan Gu, Weiping Wang 
 
-`Usenix Security 2026` Attesting Model Lineage by Consisted Knowledge Evolution with Fine-Tuning Trajectory  [**PDF**](#) \| [**Code**](https://github.com/Tthvic/Model_lineage) \\
+`USENIX Security 2026` Attesting Model Lineage by Consisted Knowledge Evolution with Fine-Tuning Trajectory  [**PDF**](#) \| [**Code**](https://github.com/Tthvic/Model_lineage) \\
 Zhuoyi Shang, **Jiasen Li (Co-first Author)**, Pengzhen Chen, Yanwei Liu, Xiaoyan Gu, Weiping Wang
 
 `ICASSP 2026` GS-MARK:DEEP ROBUST WATERMARKING FOR GRAPH SIGNALS  [**PDF**](#) \\
