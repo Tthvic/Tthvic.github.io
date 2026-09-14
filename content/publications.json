@@ -1,0 +1,68 @@
+[
+  {
+    "id": "drgw",
+    "title": "DRGW: Learning Disentangled Representations for Robust Graph Watermarking",
+    "year": 2026,
+    "venue": "WWW 2026",
+    "myRole": "First author",
+    "selected": true,
+    "order": 1,
+    "authors": [
+      { "name": "Jiasen Li" },
+      { "name": "Yanwei Liu", "corresponding": true },
+      { "name": "Zhuoyi Shang" },
+      { "name": "Xiaoyan Gu", "corresponding": true },
+      { "name": "Weiping Wang" }
+    ],
+    "summary": "Protecting graph ownership through robust, disentangled watermark representations.",
+    "paper": "https://arxiv.org/abs/2601.13569",
+    "code": "https://github.com/Tthvic/DRGW",
+    "image": "papers/drgw.png",
+    "imageAlt": "Overview of the DRGW framework for robust graph watermarking.",
+    "updatedAt": "2026-09-14"
+  },
+  {
+    "id": "model-lineage",
+    "title": "Attesting Model Lineage by Consisted Knowledge Evolution with Fine-Tuning Trajectory",
+    "year": 2026,
+    "venue": "USENIX Security 2026",
+    "myRole": "Co-first author",
+    "selected": true,
+    "order": 2,
+    "authors": [
+      { "name": "Zhuoyi Shang", "equal": true },
+      { "name": "Jiasen Li", "equal": true },
+      { "name": "Pengzhen Chen", "equal": true },
+      { "name": "Yanwei Liu", "corresponding": true },
+      { "name": "Xiaoyan Gu", "corresponding": true },
+      { "name": "Weiping Wang" }
+    ],
+    "summary": "Verifying model ancestry through the consistency of knowledge evolution.",
+    "paper": "https://www.usenix.org/system/files/usenixsecurity26-shang.pdf",
+    "code": "https://github.com/Tthvic/Model_lineage",
+    "image": "papers/model-lineage.png",
+    "imageAlt": "Overview of model lineage attestation through knowledge evolution.",
+    "updatedAt": "2026-09-14"
+  },
+  {
+    "id": "gs-mark",
+    "title": "GS-Mark: Deep Robust Watermarking for Graph Signals",
+    "year": 2026,
+    "venue": "ICASSP 2026",
+    "myRole": "First author",
+    "selected": true,
+    "order": 3,
+    "authors": [
+      { "name": "Jiasen Li" },
+      { "name": "Yanwei Liu", "corresponding": true },
+      { "name": "Pengzhen Chen" },
+      { "name": "Zhuoyi Shang" },
+      { "name": "Xiaoyan Gu", "corresponding": true }
+    ],
+    "summary": "Learning secure, robust watermarks for graph signals while preserving their utility.",
+    "paper": "https://ieeexplore.ieee.org/abstract/document/11463492",
+    "image": "papers/gs-mark.png",
+    "imageAlt": "Overview of the GS-Mark framework for graph signal watermarking.",
+    "updatedAt": "2026-09-14"
+  }
+]

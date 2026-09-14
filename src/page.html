@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>{{TITLE}}</title>
+  <meta name="description" content="{{DESCRIPTION}}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{TITLE}}">
+  <meta property="og:description" content="{{DESCRIPTION}}">
+  <link rel="icon" type="image/svg+xml" href="{{FAVICON}}">
+  <link rel="stylesheet" href="{{BASE}}assets/styles.css">
+</head>
+<body>
+  <div id="site" data-view="{{VIEW}}">
+    <a class="jl-skip" href="#main">Skip to content</a>
+    <header class="jl-top">
+      <a class="jl-wordmark" href="{{HOME}}">{{NAME}}</a>
+      <nav aria-label="Main navigation">
+        <a href="{{HOME}}" {{HOME_CURRENT}}>About</a>
+        <a href="{{PUBLICATIONS}}" {{PUB_CURRENT}}>Publications</a>
+        <a href="mailto:{{EMAIL}}">Say hello</a>
+      </nav>
+    </header>
+    <main id="main" class="jl-main">
+      {{BODY}}
+    </main>
+    <footer class="jl-footer">Last updated: <time datetime="{{UPDATED_ISO}}">{{UPDATED_LABEL}}</time></footer>
+  </div>
+</body>
+</html>

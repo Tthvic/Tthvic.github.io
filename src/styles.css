@@ -1,0 +1,110 @@
+:root {
+  color-scheme: light dark;
+  --jl-paper: light-dark(#fcfcfa, #151c22);
+  --jl-ink: light-dark(#203038, #e7efef);
+  --jl-secondary: light-dark(#5e6b71, #b4c0c6);
+  --jl-line: light-dark(#dde4e3, #36474b);
+  --jl-accent: light-dark(#206c65, #8bcfc4);
+  --jl-warm: light-dark(#aa4d36, #f0a38b);
+  --jl-violet: light-dark(#66508e, #c6b4ed);
+  --jl-tag: light-dark(#eeeaf5, #2e293e);
+  --jl-name-font: Georgia, 'Times New Roman', serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--jl-paper); color: var(--jl-ink); font: 1rem/1.6 -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }
+a { color: var(--jl-accent); text-decoration: none; text-underline-offset: 4px; }
+a:hover { text-decoration: underline; }
+a:focus-visible { outline: 2px solid var(--jl-accent); outline-offset: 5px; border-radius: 2px; }
+#site { width: 100%; max-width: 1160px; min-height: 100vh; margin-inline: auto; padding: 20px 28px 22px; }
+.jl-top { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px 24px; border-bottom: 1px solid var(--jl-line); padding-bottom: 14px; }
+.jl-wordmark { color: var(--jl-ink); font: 1.4375rem/1.3 var(--jl-name-font); letter-spacing: -.04em; }
+.jl-wordmark:hover { text-decoration: none; color: var(--jl-accent); }
+.jl-top nav { display: flex; flex-wrap: wrap; gap: 22px; font-size: .875rem; }
+.jl-top nav a { padding: 6px 0; }
+.jl-top nav a[aria-current='page'] { color: var(--jl-ink); text-decoration: underline; text-decoration-color: var(--jl-accent); text-underline-offset: 8px; }
+.jl-main { display: grid; gap: 28px; padding-top: 26px; }
+.jl-profile { display: grid; grid-template-columns: 240px minmax(0, 1fr); gap: 28px; }
+.jl-identity::before { content: ''; display: block; width: 32px; height: 2px; background: var(--jl-warm); margin-bottom: 12px; }
+.jl-greeting { margin: 0 0 6px; color: var(--jl-warm); font-size: .875rem; }
+h1 { margin: 0 0 10px; font: 400 3.5rem/1.12 var(--jl-name-font); letter-spacing: -.045em; }
+.jl-name-dot { color: var(--jl-warm); }
+.jl-role { color: var(--jl-accent); font-weight: 500; margin: 0 0 9px; }
+.jl-affiliation { margin: 0; max-width: 29ch; font-size: .875rem; line-height: 1.65; color: var(--jl-secondary); }
+.jl-about-copy { min-width: 0; padding-top: 14px; }
+.jl-about-label { font-size: .75rem; font-weight: 500; letter-spacing: .13em; text-transform: uppercase; color: var(--jl-secondary); margin: 0 0 12px; }
+.jl-bio { margin: 0 0 12px; max-width: 76ch; line-height: 1.7; }
+.jl-contact { display: flex; flex-wrap: wrap; gap: 8px 22px; margin-top: 14px; font-size: .875rem; }
+.jl-contact a { display: inline-flex; align-items: center; gap: 7px; padding-block: 2px; }
+.jl-contact a[href^='mailto:'] { color: var(--jl-warm); }
+.jl-icon { flex: 0 0 auto; width: 16px; height: 16px; vertical-align: -.15em; }
+.jl-publications { min-width: 0; }
+.jl-section-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 10px 20px; padding-bottom: 11px; border-bottom: 1px solid var(--jl-line); position: relative; }
+.jl-section-head::after { content: ''; position: absolute; bottom: -1px; left: 0; width: 32px; height: 2px; background: var(--jl-accent); }
+.jl-section-head h2 { margin: 0; font: 400 1.75rem/1.3 var(--jl-name-font); letter-spacing: -.025em; }
+.jl-view-all { font-size: .8125rem; }
+.jl-work { display: grid; grid-template-columns: 240px minmax(0, 1fr); gap: 28px; padding: 20px 0; border-bottom: 1px solid var(--jl-line); }
+.jl-work.no-figure { grid-template-columns: minmax(0, 1fr); }
+.jl-picture-link { display: block; align-self: center; background: #fff; border: 1px solid var(--jl-line); border-radius: 5px; box-shadow: 0 2px 5px light-dark(#20303808, #00000018); transform-origin: center; }
+.jl-picture-link img { display: block; width: 100%; height: auto; aspect-ratio: auto; border-radius: 4px; }
+.jl-picture-link:hover { border-color: var(--jl-accent); }
+.jl-work-text { min-width: 0; }
+.jl-venue { display: flex; flex-wrap: wrap; align-items: center; gap: 7px; margin: 0 0 7px; color: var(--jl-secondary); font-size: .75rem; }
+.jl-venue-name { display: inline-block; padding: 2px 7px; border-radius: 4px; background: var(--jl-tag); color: var(--jl-violet); font-size: .75rem; font-weight: 600; }
+.jl-author-role { color: var(--jl-accent); }
+h3 { margin: 0 0 6px; font-size: 1.125rem; line-height: 1.4; font-weight: 600; letter-spacing: -.012em; overflow-wrap: anywhere; }
+h3 a { color: var(--jl-ink); }
+h3 a:hover { color: var(--jl-accent); text-decoration: none; }
+.jl-authors { margin: 0 0 6px; font-size: .875rem; line-height: 1.65; color: var(--jl-secondary); }
+.jl-me { color: var(--jl-ink); font-weight: 600; }
+sup { color: var(--jl-accent); font-size: .75em; vertical-align: super; line-height: 0; }
+.jl-summary { margin: 0 0 7px; font-size: .875rem; line-height: 1.6; }
+.jl-links { display: flex; flex-wrap: wrap; gap: 18px; font-size: .8125rem; }
+.jl-links a { display: inline-flex; align-items: center; gap: 5px; padding-block: 2px; color: var(--jl-warm); }
+.jl-links a:has(.jl-icon-code) { color: var(--jl-violet); }
+.jl-legend { margin: 12px 0 0; font-size: .75rem; line-height: 1.7; color: var(--jl-secondary); }
+.jl-footer { margin-top: 24px; border-top: 1px solid var(--jl-line); padding-top: 14px; text-align: center; font-size: .75rem; color: var(--jl-secondary); }
+[data-view='publications'] .jl-section-head h1 { margin: 0; font-size: 2.125rem; line-height: 1.3; letter-spacing: -.025em; }
+.jl-year-heading { margin: 20px 0 0; font: 400 1.5rem/1.3 var(--jl-name-font); color: var(--jl-accent); }
+.jl-skip { position: absolute; top: -60px; left: 20px; padding: 10px 16px; background: var(--jl-paper); border: 1px solid var(--jl-line); z-index: 10; }
+.jl-skip:focus { top: 10px; }
+@media (prefers-reduced-motion: no-preference) {
+  a { transition: color .16s ease, border-color .16s ease; }
+  .jl-picture-link { transition: transform .18s ease, border-color .18s ease, box-shadow .18s ease; }
+  .jl-picture-link:focus-visible { transform: scale(1.035); }
+}
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .jl-picture-link:hover { transform: scale(1.035); box-shadow: 0 5px 14px light-dark(#20303816, #00000030); }
+}
+@media (max-width: 820px) {
+  #site { padding: 20px 24px; }
+  .jl-profile { grid-template-columns: 210px minmax(0, 1fr); gap: 24px; }
+  h1 { font-size: 3.125rem; }
+  .jl-work { grid-template-columns: 200px minmax(0, 1fr); gap: 24px; }
+  .jl-bio { line-height: 1.65; }
+}
+@media (max-width: 600px) {
+  #site { padding: 16px 20px 20px; }
+  .jl-top { padding-bottom: 12px; }
+  .jl-top nav { gap: 16px; font-size: .8125rem; }
+  .jl-main { padding-top: 22px; gap: 24px; }
+  .jl-profile { grid-template-columns: minmax(0, 1fr); gap: 16px; }
+  .jl-about-copy { padding-top: 0; }
+  .jl-affiliation { max-width: 34ch; }
+  .jl-about-label { margin-bottom: 9px; }
+  .jl-contact { margin-top: 10px; }
+  .jl-work { grid-template-columns: minmax(0, 1fr); gap: 14px; padding: 18px 0; }
+  .jl-picture-link { width: 100%; max-width: 360px; }
+  .jl-section-head h2 { font-size: 1.625rem; }
+  .jl-footer { margin-top: 20px; }
+}
+@media (pointer: coarse) {
+  .jl-top nav a, .jl-contact a, .jl-links a, .jl-view-all { min-height: 44px; display: inline-flex; align-items: center; }
+}
+@media print {
+  :root { color-scheme: light; }
+  #site { max-width: none; min-height: auto; padding: 0; }
+  .jl-top nav, .jl-view-all, .jl-skip { display: none; }
+  .jl-main { padding-top: 20px; gap: 24px; }
+  .jl-work { break-inside: avoid; }
+  .jl-picture-link { box-shadow: none; }
+}

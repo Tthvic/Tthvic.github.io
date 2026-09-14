@@ -1,0 +1,29 @@
+{
+  "drgw": {
+    "source": "https://arxiv.org/pdf/2601.13569",
+    "code": "https://github.com/Tthvic/DRGW",
+    "codeNotes": "The repository README identifies this as the PyTorch implementation of DRGW (WWW 2026), links arXiv:2601.13569, and includes the matching paper citation.",
+    "figure": 2,
+    "pdfPage": 4,
+    "image": "papers/drgw.png",
+    "dimensions": [1470, 816],
+    "authorNotes": "Jiasen Li is the first author. Page 1 of arXiv:2601.13569v2 marks both Yanwei Liu and Xiaoyan Gu with an asterisk referring to Corresponding author. Both are corresponding authors."
+  },
+  "model-lineage": {
+    "source": "https://www.usenix.org/system/files/usenixsecurity26-shang.pdf",
+    "figure": 3,
+    "pdfPage": 7,
+    "image": "papers/model-lineage.png",
+    "dimensions": [1443, 732],
+    "authorNotes": "Zhuoyi Shang, Jiasen Li, and Pengzhen Chen contributed equally. Yanwei Liu and Xiaoyan Gu are corresponding authors."
+  },
+  "gs-mark": {
+    "source": "Original ICASSP2026_SIGWM_Paper.pdf supplied by the author",
+    "publication": "https://ieeexplore.ieee.org/abstract/document/11463492",
+    "figure": 1,
+    "pdfPage": 2,
+    "image": "papers/gs-mark.png",
+    "dimensions": [1480, 620],
+    "authorNotes": "Page 1 lists Jiasen Li first. Yanwei Liu and Xiaoyan Gu have an asterisk referring to Corresponding authors. No equal-contribution note appears in the supplied PDF."
+  }
+}

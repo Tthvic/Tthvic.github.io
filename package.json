@@ -1,0 +1,13 @@
+{
+  "name": "jiasen-li-homepage",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Jiasen Li's personal academic homepage",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "preview": "node scripts/serve.mjs"
+  }
+}
