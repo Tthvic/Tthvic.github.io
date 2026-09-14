@@ -2,7 +2,7 @@
 
 这是一个可以部署到 GitHub Pages 的静态网站。采用英文排版，包含个人介绍、论文展示和按年份整理的完整论文页，Scholar 和邮箱入口放在简介下方。
 
-当前阶段只在本地预览，尚未发布到 GitHub。
+网站通过 GitHub Actions 发布到 [tthvic.github.io](https://tthvic.github.io/)。[源代码仓库](https://github.com/Tthvic/Tthvic.github.io)保留资料、原图和模板，也可以先用本地预览检查修改效果。
 
 ## 本地浏览
 
@@ -45,17 +45,16 @@ npm run build
 
 已经准备好 `.github/workflows/deploy-pages.yml`，提交到 `main` 后会自动构建并发布 `dist/`，无需手动复制生成文件，也不需要额外填写 Token。
 
-首次发布到你的账号：
+已配置的发布方式：
 
-1. 在 **Tthvic** 账号下创建公开仓库 **Tthvic.github.io**。发布成功后的地址为 **https://tthvic.github.io/**。
-2. 把本项目源文件提交到该仓库的 `main` 分支，包含 `.github/`、`content/`、`assets/`、`src/`、`scripts/` 和 `package.json`。
-3. 打开仓库 **Settings → Pages → Build and deployment → Source**，选择 **GitHub Actions**。
-4. 在 **Actions → Deploy GitHub Pages** 中查看发布进度。如果第一次提交发生在 Pages 开启前，选择 **Run workflow** 重新运行。
-5. 发布成功后打开工作流中显示的网页地址。
+- 仓库：**Tthvic/Tthvic.github.io**，源文件保存在 `main` 分支。
+- **Settings → Pages → Build and deployment → Source** 使用 **GitHub Actions**。
+- 在 **Actions → Deploy GitHub Pages** 中查看每次发布进度；也可选择 **Run workflow** 手动重新发布。
+- 发布成功后的主页地址为 **https://tthvic.github.io/**，完整论文页为 **https://tthvic.github.io/publications/**。
 
 后续只需更新资料或配图，再提交到 `main`。工作流会校验论文配图、重新生成页面并发布。页尾日期仍由资料中的 `updatedAt` 控制。`dist/` 是自动生成的文件夹，已从 Git 提交中排除。
 
-配置依据：[GitHub Pages 自定义工作流](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)。尚未创建远程仓库或发布上线。
+配置依据：[GitHub Pages 自定义工作流](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)。
 
 不要直接修改 `dist/` 内的 HTML；这些文件会从资料和模板重新生成。请修改 `content/`、`src/` 和 `assets/`。
 
