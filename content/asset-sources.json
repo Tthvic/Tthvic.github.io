@@ -20,6 +20,8 @@
   "gs-mark": {
     "source": "Original ICASSP2026_SIGWM_Paper.pdf supplied by the author",
     "publication": "https://ieeexplore.ieee.org/abstract/document/11463492",
+    "code": "https://github.com/Tthvic/GS-mark",
+    "codeNotes": "The repository README identifies this as the code for GS-mark (ICASSP 2026), lists the matching authors, and links DOI 10.1109/ICASSP55912.2026.11463492.",
     "figure": 1,
     "pdfPage": 2,
     "image": "papers/gs-mark.png",

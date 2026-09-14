@@ -61,6 +61,7 @@
     ],
     "summary": "Learning secure, robust watermarks for graph signals while preserving their utility.",
     "paper": "https://ieeexplore.ieee.org/abstract/document/11463492",
+    "code": "https://github.com/Tthvic/GS-mark",
     "image": "papers/gs-mark.png",
     "imageAlt": "Overview of the GS-Mark framework for graph signal watermarking.",
     "updatedAt": "2026-09-14"
