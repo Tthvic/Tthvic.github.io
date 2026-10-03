@@ -1,5 +1,28 @@
 [
   {
+    "id": "hologram-streaming",
+    "title": "Hologram Streaming Based on Complex-Domain Rescaling and Optimal Real/Imaginary Bitrate Allocation",
+    "year": 2026,
+    "venue": "ACM TOMM 2026",
+    "myRole": "Second author",
+    "selected": true,
+    "order": 0,
+    "authors": [
+      { "name": "Yanwei Liu" },
+      { "name": "Jiasen Li" },
+      { "name": "Yifei Chen" },
+      { "name": "Jinxia Liu" },
+      { "name": "Antonios Argyriou" },
+      { "name": "Xiaoyan Gu", "corresponding": true },
+      { "name": "Siwei Ma" }
+    ],
+    "summary": "Efficient hologram streaming through complex-valued rescaling and optimized real/imaginary bitrate allocation.",
+    "paper": "https://dl.acm.org/doi/10.1145/3849872",
+    "image": "papers/hologram-streaming.png",
+    "imageAlt": "Hologram streaming framework with complex-domain downscaling and upscaling, and real/imaginary bitrate allocation between server and client.",
+    "updatedAt": "2026-10-04"
+  },
+  {
     "id": "drgw",
     "title": "DRGW: Learning Disentangled Representations for Robust Graph Watermarking",
     "year": 2026,

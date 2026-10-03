@@ -1,4 +1,16 @@
 {
+  "hologram-streaming": {
+    "source": "Author-supplied 3849872.pdf",
+    "publication": "https://dl.acm.org/doi/10.1145/3849872",
+    "publicationMetadata": "https://api.crossref.org/works/10.1145/3849872",
+    "publishedOnline": "2026-10-03",
+    "figure": 2,
+    "pdfPage": 6,
+    "image": "papers/hologram-streaming.png",
+    "dimensions": [1480, 1032],
+    "imageNotes": "The original Figure 2 graphic was extracted directly from the supplied PDF and rendered without altering the diagram content.",
+    "authorNotes": "Page 1 lists Yanwei Liu, Jiasen Li, Yifei Chen, Jinxia Liu, Antonios Argyriou, Xiaoyan Gu, and Siwei Ma in that order. The author contact footnote identifies Xiaoyan Gu as the corresponding author. Jiasen Li is the second author; no equal-contribution note appears in the supplied PDF."
+  },
   "drgw": {
     "source": "https://arxiv.org/pdf/2601.13569",
     "code": "https://github.com/Tthvic/DRGW",
