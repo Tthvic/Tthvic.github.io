@@ -4,7 +4,6 @@
     "title": "Hologram Streaming Based on Complex-Domain Rescaling and Optimal Real/Imaginary Bitrate Allocation",
     "year": 2026,
     "venue": "ACM TOMM 2026",
-    "myRole": "Second author",
     "selected": true,
     "order": 0,
     "authors": [
@@ -27,7 +26,6 @@
     "title": "DRGW: Learning Disentangled Representations for Robust Graph Watermarking",
     "year": 2026,
     "venue": "WWW 2026",
-    "myRole": "First author",
     "selected": true,
     "order": 1,
     "authors": [
@@ -49,7 +47,6 @@
     "title": "Attesting Model Lineage by Consisted Knowledge Evolution with Fine-Tuning Trajectory",
     "year": 2026,
     "venue": "USENIX Security 2026",
-    "myRole": "Co-first author",
     "selected": true,
     "order": 2,
     "authors": [
@@ -72,7 +69,6 @@
     "title": "GS-Mark: Deep Robust Watermarking for Graph Signals",
     "year": 2026,
     "venue": "ICASSP 2026",
-    "myRole": "First author",
     "selected": true,
     "order": 3,
     "authors": [

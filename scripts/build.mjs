@@ -69,7 +69,7 @@ export async function build({ requireImages = false } = {}) {
     const picture = paper.hasImage ? `<a class="jl-picture-link" href="${externalUrl(paper.paper)}" target="_blank" rel="noopener noreferrer" aria-label="Read ${escapeHtml(paper.title)}"><img src="${base}assets/${escapeHtml(paper.image)}" alt="${escapeHtml(paper.imageAlt || paper.title)}" width="624" height="416" loading="lazy" decoding="async"></a>` : '';
     return `<article class="jl-work${paper.hasImage ? '' : ' no-figure'}" id="${escapeHtml(paper.id)}">
       ${picture}<div class="jl-work-text">
-        <p class="jl-venue"><span class="jl-venue-name">${escapeHtml(paper.venue)}</span>${paper.myRole ? ` · <span class="jl-author-role">${escapeHtml(paper.myRole)}</span>` : ''}</p>
+        <p class="jl-venue"><span class="jl-venue-name">${escapeHtml(paper.venue)}</span></p>
         <h3>${outLink(paper.paper, paper.title)}</h3>
         <p class="jl-authors">${paper.authors.map(authorMarkup).join(', ')}</p>
         ${paper.summary ? `<p class="jl-summary">${escapeHtml(paper.summary)}</p>` : ''}

@@ -50,7 +50,6 @@ h1 { margin: 0 0 10px; font: 400 3.5rem/1.12 var(--jl-name-font); letter-spacing
 .jl-work-text { min-width: 0; }
 .jl-venue { display: flex; flex-wrap: wrap; align-items: center; gap: 7px; margin: 0 0 7px; color: var(--jl-secondary); font-size: .75rem; }
 .jl-venue-name { display: inline-block; padding: 2px 7px; border-radius: 4px; background: var(--jl-tag); color: var(--jl-violet); font-size: .75rem; font-weight: 600; }
-.jl-author-role { color: var(--jl-accent); }
 h3 { margin: 0 0 6px; font-size: 1.125rem; line-height: 1.4; font-weight: 600; letter-spacing: -.012em; overflow-wrap: anywhere; }
 h3 a { color: var(--jl-ink); }
 h3 a:hover { color: var(--jl-accent); text-decoration: none; }

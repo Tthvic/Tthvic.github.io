@@ -27,7 +27,7 @@ Windows 也可以右键 `preview.ps1`，选择“使用 PowerShell 运行”。�
 
 新增论文时，复制一条论文记录并填写标题、作者、会议、年份、链接和配图路径即可。`selected: true` 表示在首页 Publications 中展示，所有记录都会进入完整论文页。年份自动倒序，同一年由 `order` 决定顺序。
 
-论文作者按资料中的顺序展示。姓名与 `profile.json` 中的 `authorNames` 匹配时自动加粗。共同贡献作者设置 `equal: true`，通讯作者设置 `corresponding: true`；`myRole` 用于显示本人角色。请根据论文原文填写这些字段。
+论文作者按资料中的顺序展示。姓名与 `profile.json` 中的 `authorNames` 匹配时自动加粗。共同贡献作者设置 `equal: true`，通讯作者设置 `corresponding: true`。请根据论文原文填写这些字段。
 
 所有论文入口统一显示为 **Paper**。有代码时填写 `code`，页面会增加 **Code** 链接。
 
